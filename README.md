@@ -63,7 +63,7 @@ Em seguida, foi conduzido um teste para demonstrar a visualização completa no 
 
 <p align="center">Visualização do Dashboard completo na TagoIO</p>
 <p align="center">
-  <img src="https://github.com/williangrleme/IC-Rastreador/blob/main/imgs/6.pngg" alt="imagem">
+  <img src="https://github.com/williangrleme/IC-Rastreador/blob/main/imgs/6.png" alt="imagem">
 </p>
 
 ## Documentação
