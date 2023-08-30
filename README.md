@@ -59,7 +59,7 @@ Além disso, procedeu-se com um teste relativo ao alerta de raio de alcance, no 
   <img src="https://github.com/williangrleme/IC-Rastreador/blob/main/imgs/5.png" alt="imagem">
 </p>
 
-Em seguida, foi conduzido um teste para demonstrar a visualização completa no Painel de Controle, com o intuito de simular um cenário fiel ao contexto do projeto. Na ilustração abaixo, o dispositivo móvel permanecia parado, resultando em uma velocidade registrada de 0 km/h e a não ativação do alerta de velocidade. Entretanto, considerando que a distância máxima aceitável foi definida como 100 metros, o alerta de alcance máximo foi acionado. A representação também exibiu a distância entre a localização atual do dispositivo e o local fixo estabelecido (Rua Francisco Freitas Franco, 52, Jardim Esplanada, Penápolis).
+Em seguida, foi conduzido um teste para demonstrar a visualização completa no Painel de Controle, com o intuito de simular um cenário fiel ao contexto do projeto. Na ilustração abaixo, o dispositivo móvel permanecia parado, resultando em uma velocidade registrada de 0 km/h e a não ativação do alerta de velocidade. Entretanto, considerando que a distância máxima aceitável foi definida como 100 metros, o alerta de alcance máximo foi acionado. A representação também exibiu a distância entre a localização atual do dispositivo e o local fixo estabelecido.
 
 <p align="center">Visualização do Dashboard completo na TagoIO</p>
 <p align="center">
