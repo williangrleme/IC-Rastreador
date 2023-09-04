@@ -67,7 +67,11 @@ Em seguida, foi conduzido um teste para demonstrar a visualização completa no 
 
 ## Documentação
 
-Caso haja interesse em detalhes do projeto, é possivel encontrar os relatórios e artigos desenvolvidos ao longo do desenvolvimento [aqui](https://github.com/williangrleme/IC-Rastreador/tree/main/Documentacao).
+
+Caso haja interesse em detalhes do projeto, é possivel encontrar um artigo do projeto [aqui](https://github.com/williangrleme/IC-Rastreador/blob/main/Documentacao/Artigo_conict.pdf).
+
+Caso tenha interesse em visualizar outros relatórios e artigos desenvolvidos ao longo do desenvolvimento do projeto acesse [aqui](https://github.com/williangrleme/IC-Rastreador/tree/main/Documentacao).
+
 
 
 ## Referência
