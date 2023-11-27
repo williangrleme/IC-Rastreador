@@ -68,7 +68,7 @@ Em seguida, foi conduzido um teste para demonstrar a visualização completa no 
 ## Documentação
 
 
-Caso haja interesse em detalhes do projeto, é possivel visualizar dois artigos que escrevi [aqui](https://github.com/williangrleme/IC-Rastreador/blob/main/Documentacao/CONICT_2023.pdf) e [aqui](https://github.com/williangrleme/IC-Rastreador/blob/main/Documentacao/CONICT_2023.pdf).
+Caso haja interesse em detalhes do projeto, é possivel visualizar dois artigos que escrevi [aqui](https://github.com/williangrleme/IC-Rastreador/blob/main/Documentacao/CONICT_2023.pdf) e [aqui](https://github.com/williangrleme/IC-Rastreador/blob/main/Documentacao/SimposioFUNEPE2023.pdf).
 
 
 Caso tenha interesse em visualizar outros relatórios e artigos desenvolvidos ao longo do desenvolvimento do projeto acesse [aqui](https://github.com/williangrleme/IC-Rastreador/tree/main/Documentacao).
