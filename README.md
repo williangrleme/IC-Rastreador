@@ -78,6 +78,14 @@ Caso tenha interesse em visualizar outros relatórios e artigos desenvolvidos ao
 ## Referência
 
 - LEME, Willian Gustavo Rocha; ALEXANDRE, Rogério Pinto. TECNOLOGIA ASSISTIVA E IOT PARA O MONITORAMENTO DE PESSOAS COM DOENÇAS COGNITIVAS.. In: Anais do Simpósio de Pesquisa e Iniciação Científica e Congresso de Pós-graduação da FUNEPE. Anais...Penápolis(SP) FUNEPE, 2022. Disponível em: https//www.even3.com.br/anais/simposiofunepe2022/562638-TECNOLOGIA-ASSISTIVA-E-IOT-PARA-O-MONITORAMENTO-DE-PESSOAS-COM-DOENCAS-COGNITIVAS. Acesso em: 30/08/2023
+- ESPRESSIF. ESP32 Wi-Fi & Bluetooth MCU. 2023. Disponível em: https://www.espressif.com/en/products/socs/esp32. Acesso em: 5 ago. 2023.
+- LILYGO. TTGO T-Beam. Disponível em: https://github.com/LilyGO/TTGO-T-Beam. Acesso em: 5 ago. 2023.
+- LORA ALLIANCE. What is LoRaWAN, 2023. Disponível em: https://lora-alliance.org/resource_hub/what-is-lorawan/. Acesso em 12 set. 2023.
+- LUZARDO, Adriana Remião; GORINI, Maria Isabel Pinto Coelho; SILVA, Ana Paula Scheffer Schell da. Características de idosos com doença de Alzheimer e seus cuidadores: uma série de casos em um serviço de neurogeriatria. Texto & Contexto Enfermagem, 2006 OUT-DEZ; 15(4): 587-594.
+SOUSA, F. C. de, Soares, R. D., Campos, R. José, & Motta, I. V. C. IIOT Utilizando Protocolo MQTT. 2021. Disponível em: https://repositorio.animaeducacao.com.br/handle/ANIMA/18962. Acesso em: 12 set. 2023.
+- SWEDBERG, Claire. Czech Oncology Center Uses Wi-Fi RTLS to Locate People, Equipment. 2012. Disponível em: https://www.rfidjournal.com/czech-oncology-center-uses-wi-fi-rtls-to-locate-people-equipment. Acesso em: 10 out. 2023.
+- TAGOIO. TagoIO: IoT Cloud Platform. 2023. Disponível em: https://tago.io/. Acesso em: 10 out. 2023.
+
 ## Autor
 
 - [Willian Gustavo](https://github.com/williangrleme)
