@@ -1,4 +1,4 @@
-<h1 align="center"> USO DE MQTT EM DISPOSITIVO PARA O MONITORAMENTO DE PESSOAS COM DOENÇAS COGNITIVAS </h1>
+<h1 align="center"> TECNOLOGIA ASSISTIVA E USO DE PLATAFORMA IOT PARA O MONITORAMENTO DE PACIENTES COM DOENÇAS COGNITIVAS </h1>
 
 Este projeto propõe o desenvolvimento de um rastreador de pacientes com doenças cognitivas no ramo de tecnologia assistiva, incorporando o protocolo MQTT (Message Queuing Telemetry Transport), amplamente utilizado na Internet das Coisas (IoT), para comunicação eficaz. O sistema implementado utiliza a tecnologia LoRa para estabelecer comunicação entre dois dispositivos: um fixo na residência do paciente e outro móvel, acompanhando o paciente em deslocamento. A transmissão contínua de informações, utilizando o MQTT como um protocolo IoT, para uma plataforma web existente, permite a visualização em tempo real e a aplicação de lógica de cercas virtuais, que são alertas gerados pelo sistema quando certas condições de distância e velocidade são atingidas. 
 
